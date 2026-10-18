@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lista_Dwukierunkowa/Lista_Dwukierunkowa.vcxproj" Id="d4fcbcb6-3edc-4346-a69c-4259ca2c3aa1" />
+</Solution>
